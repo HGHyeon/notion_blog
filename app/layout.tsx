@@ -10,10 +10,10 @@ import { ThemeProvider } from 'next-themes'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Notionpresso Portfolio Starter',
-    template: '%s | Notionpresso Portfolio Starter',
+    default: 'GyuHyeon’s Data Journal',
+    template: '%s | GyuHyeon’s Data Journal',
   },
-  description: 'This is my my portfloio',
+  description: 'Here, I share insights, tutorials, and projects on data-driven technologies.',
   openGraph: {
     title: 'My Portfolio',
     description: 'This is my portfolio.',

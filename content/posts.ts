@@ -1,5 +1,6 @@
 import post1 from '../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json'
 import post2 from '../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json'
+import post3 from '../notion-data/185b1403-b63f-8147-9313-ec253edb3350.json'
 
 const posts = [
   {
@@ -16,6 +17,14 @@ const posts = [
     content: post2,
     date: "2023-10-23",
     description: "Explore the UX analysis of Naver's search bar and strategies for replicating its features. The post examines the UX triggers, selection of search results, and the refreshing of result lists. It also compares coding approaches for implementing search bar functionalities, aiming for a concise and effective execution.",
+    image: undefined
+  },
+  {
+    title: "test",
+    slug: "first-post",
+    content: post3,
+    date: "2023-10-23",
+    description: "testtest",
     image: undefined
   }
 ] as Post[];
