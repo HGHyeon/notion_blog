@@ -13,21 +13,11 @@ export default function Page() {
           className="rounded-full mr-4"
         />
         <h1 className="text-2xl font-semibold tracking-tighter">
-          My Portfolio
+          GyuHyeon’s Data Journal
         </h1>
       </div>
       <p className="mb-4">
-        {`Hello! This blog is created using `}
-        <a 
-          href="https://github.com/notionpresso" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="text-blue-600 hover:text-blue-800 underline font-medium transition duration-300 ease-in-out"
-        >
-          Notionpresso
-        </a>
-        {`. I'm efficiently managing content by utilizing Notion as a CMS. 
-        I'll be sharing stories about development, technology, and daily life. 
+        {`Here, I share insights, tutorials, and projects on data-driven technologies. 
         Stay tuned and thanks for your interest!`}
       </p>
       <div className="my-8">
