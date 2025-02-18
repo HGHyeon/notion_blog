@@ -29,7 +29,7 @@
 }
 
 html {
-  min-width: 360px;
+  min-width: 100%;
 }
 
 .prose .anchor {
