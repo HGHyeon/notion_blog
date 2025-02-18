@@ -37,9 +37,15 @@ html {
 
   margin-left: -1em;
   padding-right: 0.5em;
-  width: 80%;
-  max-width: 700px;
+  width: 100%;
+  max-width: 100%;
   cursor: pointer;
+}
+
+.notion-text, .notion-callout {
+  max-width: 100%;
+  white-space: normal; /* 줄바꿈 적용 */
+  word-wrap: break-word; /* 긴 단어 자동 줄바꿈 */
 }
 
 .anchor:hover {
@@ -83,7 +89,8 @@ html {
 }
 
 .prose p {
-  @apply my-4 text-neutral-800 dark:text-neutral-200;
+  line-height: 1.8; /* 줄 간격을 넓혀서 가독성 향상 */
+  margin-bottom: 1.5rem; /* 문단 간격을 더 넓게 설정 */
 }
 
 .prose h1 {
@@ -140,10 +147,10 @@ input[type='email'] {
 }
 
 table {
-  display: block;
-  max-width: fit-content;
-  overflow-x: auto;
-  white-space: nowrap;
+  width: 100%; /* 표가 화면 전체 너비를 사용하도록 설정 */
+  max-width: 100%;
+  overflow-x: auto; /* 너무 길면 가로 스크롤 가능 */
+  white-space: normal; /* 텍스트가 너무 길어도 줄바꿈되도록 설정 */
 }
 
 .title {
