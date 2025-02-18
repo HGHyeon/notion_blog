@@ -1,6 +1,6 @@
 import post1 from '../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json'
 import post2 from '../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json'
-import post3 from '../notion-data/185b1403-b63f-8147-9313-ec253edb3350.json'
+import post3 from '../notion-data/19eb1403-b63f-8092-9641-c238f7bdb374.json'
 
 const posts = [
   {
@@ -20,7 +20,7 @@ const posts = [
     image: undefined
   },
   {
-    title: "test",
+    title: "(1) 정확도",
     slug: "first-post",
     content: post3,
     date: "2023-10-23",

@@ -1,0 +1,3303 @@
+{
+  "object": "page",
+  "id": "19eb1403-b63f-8092-9641-c238f7bdb374",
+  "created_time": "2025-02-18T05:38:00.000Z",
+  "last_edited_time": "2025-02-18T06:05:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "185b1403-b63f-808e-bf45-cc61da650259"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "▪︎ (1) 정확도 (Accuracy)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "▪︎ (1) 정확도 (Accuracy)",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1-Accuracy-19eb1403b63f80929641c238f7bdb374",
+  "public_url": null,
+  "request_id": "59107f5c-292a-4fb4-8534-342fe29c1cab",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-801c-a466-d776df8a595e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:38:00.000Z",
+      "last_edited_time": "2025-02-18T05:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-804a-bb26-d5e798cd128b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:39:00.000Z",
+      "last_edited_time": "2025-02-18T05:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "머신러닝은 데이터 가공/변환, 모델 학습/예측, 그리고 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "머신러닝은 데이터 가공/변환, 모델 학습/예측, 그리고 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "평가",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "평가",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "(Evaluation)의 프로세스로 구성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "(Evaluation)의 프로세스로 구성",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "blue_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80ce-9a01-eb9ff57f2e7b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "머신러닝 모델은 여러 가지 방법으로 예측 성능을 평가할 수 있음",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "머신러닝 모델은 여러 가지 방법으로 예측 성능을 평가할 수 있음",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80fa-b53a-f61019417bf3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "성능 평가 지표",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "성능 평가 지표",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "(Evaluation Metric)는 일반적으로 모델이 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "(Evaluation Metric)는 일반적으로 모델이 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "분류냐 회귀냐에 따라 여러 종류로 나뉨",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "분류냐 회귀냐에 따라 여러 종류로 나뉨",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80c5-a4eb-dfeafcd23c1a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "회귀",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "회귀",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "의 경우 대부분 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "의 경우 대부분 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "실제 값과 예측값의 오차 평균값",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "실제 값과 예측값의 오차 평균값",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "에 기반",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "에 기반",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8077-a767-f619574cbfec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "예를 들어 오차에 절댓값을 씌운 뒤 평균 오차를 구하거나 오차의 제곱 값에 루트를 씌운 뒤 평균 오차를 구하는 방법 등",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "예를 들어 오차에 절댓값을 씌운 뒤 평균 오차를 구하거나 오차의 제곱 값에 루트를 씌운 뒤 평균 오차를 구하는 방법 등",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80b7-9948-d978567ddcd9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기본적으로 예측 오차를 가지고 정규화 수준을 재가공 하는 방법이 휘귀의 성능 평가 지표 유형",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기본적으로 예측 오차를 가지고 정규화 수준을 재가공 하는 방법이 휘귀의 성능 평가 지표 유형",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80a7-aad3-ea85693c4bed",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "분류",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "분류",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "의 평가 방법도 일반적으로는 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "의 평가 방법도 일반적으로는 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "실제 결과 데이터와 예측 결과 데이터가 얼마나 정확하고 오류가 적게 발생하는 가에 기반",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "실제 결과 데이터와 예측 결과 데이터가 얼마나 정확하고 오류가 적게 발생하는 가에 기반",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "하지만, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "하지만, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "단순히 이러한 정확도만 가지고 판단했다가는 잘못된 평가 결과에 빠질 수 있음",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "단순히 이러한 정확도만 가지고 판단했다가는 잘못된 평가 결과에 빠질 수 있음",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80db-83a6-c6e296b52d80",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "본 장에서는 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "본 장에서는 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "분류에 사용되는 성능 평가 지표에 대해서 집중적으로 설명함",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "분류에 사용되는 성능 평가 지표에 대해서 집중적으로 설명함",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80eb-9b0d-c87fa95c7efc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-804a-bb26-d5e798cd128b"
+          },
+          "created_time": "2025-02-18T05:39:00.000Z",
+          "last_edited_time": "2025-02-18T05:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "특히 0과 1로 결정값이 한정되는 이진 분류의 성능 평가 지표에 대해서 집중적으로 설명!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "특히 0과 1로 결정값이 한정되는 이진 분류의 성능 평가 지표에 대해서 집중적으로 설명!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:40:00.000Z",
+      "last_edited_time": "2025-02-18T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "분류의 성능 평가 지표",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "분류의 성능 평가 지표",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "yellow_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8091-9606-f56fd68f5607",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "정확도 (Accuracy)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "정확도 (Accuracy)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8019-844c-f681440dace1",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "오차행렬 (Confusion Matrix)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "오차행렬 (Confusion Matrix)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8039-ac8e-ff5e2fcc4b95",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "정밀도 (Precision)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "정밀도 (Precision)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8068-be7b-fb61eda9c1cf",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "재현율 (Recall)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "재현율 (Recall)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8051-86a3-ccf5bc8d1b3b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "F1 스코어",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "F1 스코어",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8071-bd1e-e5d0619546b0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80c0-a95c-f0c131a40e8f"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ROC곡선과 AUC",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ROC곡선과 AUC",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80ad-bc88-c42fa49e59c1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:40:00.000Z",
+      "last_edited_time": "2025-02-18T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "분류",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "분류",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "는 결정 클래스 값 종류의 유형에 따라 긍정/부정과 같은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "는 결정 클래스 값 종류의 유형에 따라 긍정/부정과 같은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "2개의 결괏값만을 가지는 이진 분류",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2개의 결괏값만을 가지는 이진 분류",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "와 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "와 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "여러 개의 결정 클래스 값을 가지는 멀티 분류",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여러 개의 결정 클래스 값을 가지는 멀티 분류",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "로 나뉠 수 있음",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "로 나뉠 수 있음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80e2-824c-d86acd976cf9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80ad-bc88-c42fa49e59c1"
+          },
+          "created_time": "2025-02-18T05:40:00.000Z",
+          "last_edited_time": "2025-02-18T05:40:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "결정 클래스는 \"가능한 정답의 집합\"이고 label은 \"각 데이터의 실제 정답\"",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "결정 클래스는 \"가능한 정답의 집합\"이고 label은 \"각 데이터의 실제 정답\"",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8084-a267-fd44dd95b601",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:40:00.000Z",
+      "last_edited_time": "2025-02-18T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위에서 언급한 분류의 성능 지표는 이진/멀티 분류 모두에 적용되는 지표이지만, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위에서 언급한 분류의 성능 지표는 이진/멀티 분류 모두에 적용되는 지표이지만, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "특히 이진 분류에서 더욱 중요하게 강조하는 지표!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특히 이진 분류에서 더욱 중요하게 강조하는 지표!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80c5-9b2c-cceaea35d726",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:40:00.000Z",
+      "last_edited_time": "2025-02-18T05:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80dc-ac1f-fb5819e73a86",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:40:00.000Z",
+      "last_edited_time": "2025-02-18T05:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "왜 위 지표가 모두 이진 분류에서 중요할까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "왜 위 지표가 모두 이진 분류에서 중요할까?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80e4-ad11-e3ca62d44acc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:41:00.000Z",
+      "last_edited_time": "2025-02-18T05:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도 (Accuracy)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도 (Accuracy)",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "yellow_background"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8038-9f23-de58b3f1ac8b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80e4-ad11-e3ca62d44acc"
+          },
+          "created_time": "2025-02-18T05:41:00.000Z",
+          "last_edited_time": "2025-02-18T05:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "실제 데이터에서 예측 데이터가 얼마나 같은지를 판단하는 지표",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "실제 데이터에서 예측 데이터가 얼마나 같은지를 판단하는 지표",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80d1-b7bf-cf467785ba28",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80e4-ad11-e3ca62d44acc"
+          },
+          "created_time": "2025-02-18T05:41:00.000Z",
+          "last_edited_time": "2025-02-18T05:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "즉, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "즉, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "예측 결과가 동일한 데이터 건수를 전체 예측 데이터 건수로 나눈 값",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "예측 결과가 동일한 데이터 건수를 전체 예측 데이터 건수로 나눈 값",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-807a-aa91-d81d06458857",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:41:00.000Z",
+      "last_edited_time": "2025-02-18T05:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도는 직관적으로 모델 예측 성능을 나타내는 평가 지표",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도는 직관적으로 모델 예측 성능을 나타내는 평가 지표",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80e2-94e9-c49280241d3c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:41:00.000Z",
+      "last_edited_time": "2025-02-18T05:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 이진 분류의 경우 데이터의 구성에 따라 ML 모델의 성능을 왜곡할 수 있기 때문에 정확도 수치 하나만 가지고 성능을 평가하지 않음",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 이진 분류의 경우 데이터의 구성에 따라 ML 모델의 성능을 왜곡할 수 있기 때문에 정확도 수치 하나만 가지고 성능을 평가하지 않음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80c9-93e9-e3db56f10063",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:41:00.000Z",
+      "last_edited_time": "2025-02-18T05:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8015-b35e-fcd1f4dbedce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:41:00.000Z",
+      "last_edited_time": "2025-02-18T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그렇다면 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그렇다면 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도 지표가 어떻게 ML 모델의 성능을 왜곡할까?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도 지표가 어떻게 ML 모델의 성능을 왜곡할까?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8058-98c3-e4abb86c3750",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:42:00.000Z",
+      "last_edited_time": "2025-02-18T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞의 타이타닉 예제 수행 결과를 보면 한 가지 의구심이 생길 수 있음",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞의 타이타닉 예제 수행 결과를 보면 한 가지 의구심이 생길 수 있음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80dd-be7e-dcd5d7dd47a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:42:00.000Z",
+      "last_edited_time": "2025-02-18T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ML 알고리즘을 적용한 후 예측 정확도의 결과가 보통 80%대였지만, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ML 알고리즘을 적용한 후 예측 정확도의 결과가 보통 80%대였지만, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "탑승객이 남자인 경우보다 여자인 경우에 생존 확률이 높았기 때문에",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "탑승객이 남자인 경우보다 여자인 경우에 생존 확률이 높았기 때문에",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 별다른 알고리즘의 적용 없이 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 별다른 알고리즘의 적용 없이 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "무조건 성별이 여자인 경우 생존으로, 남자인 경우 사망으로 예측 결과를 예측해도 이와 비슷한 수치가 나올 수 있음",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "무조건 성별이 여자인 경우 생존으로, 남자인 경우 사망으로 예측 결과를 예측해도 이와 비슷한 수치가 나올 수 있음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80ca-b2b3-ce2381fdb335",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80dd-be7e-dcd5d7dd47a5"
+          },
+          "created_time": "2025-02-18T05:42:00.000Z",
+          "last_edited_time": "2025-02-18T05:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "단지 성별 조건 하나만을 가지고 결정하는 별거 아닌 알고리즘도 높은 정확도를 나타내는 상황 발생!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "단지 성별 조건 하나만을 가지고 결정하는 별거 아닌 알고리즘도 높은 정확도를 나타내는 상황 발생!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8086-8f39-db91ab53ea05",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:42:00.000Z",
+      "last_edited_time": "2025-02-18T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80a2-a4d0-cd5f7b5c64fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:42:00.000Z",
+      "last_edited_time": "2025-02-18T05:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "다음 예제에서는 사이킷런의 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "다음 예제에서는 사이킷런의 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "BaseEstimator",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "BaseEstimator",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 클래스를 상속받아 아무런 학습을 하지 않고, 성별에 따라 생존자를 예측하는 단순한 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 클래스를 상속받아 아무런 학습을 하지 않고, 성별에 따라 생존자를 예측하는 단순한 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Classifier",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "Classifier",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80f7-9a14-de1367c35f08",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80a2-a4d0-cd5f7b5c64fe"
+          },
+          "created_time": "2025-02-18T05:42:00.000Z",
+          "last_edited_time": "2025-02-18T05:42:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "사이킷런은 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "사이킷런은 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "BaseEstimator",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "BaseEstimator",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "를 상속받으면 Customized 형태의 Estimator를 개발자가 생성 가능",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "를 상속받으면 Customized 형태의 Estimator를 개발자가 생성 가능",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8082-92e7-f630a2938e3d",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80a2-a4d0-cd5f7b5c64fe"
+          },
+          "created_time": "2025-02-18T05:42:00.000Z",
+          "last_edited_time": "2025-02-18T05:43:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "여기서 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "여기서 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "fit()",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "fit()",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " 메서드는 아무것도 수행 X, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " 메서드는 아무것도 수행 X, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "predict()",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "predict()",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " 메서드는 단순히 ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " 메서드는 단순히 ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sex",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "Sex",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " feature가 1이면 0, 그렇지 않으면 1로 예측",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " feature가 1이면 0, 그렇지 않으면 1로 예측",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80fa-9e7f-dd2aabc33c8f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:43:00.000Z",
+      "last_edited_time": "2025-02-18T05:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "import numpy as np\nfrom sklearn.base import BaseEstimator\n\nclass MyDummyClassifier(BaseEstimator):\n    # fit( ) 메소드는 아무것도 학습하지 않음.\n    def fit(self, X , y=None):\n        pass\n\n    # predict( ) 메소드는 단순히 Sex feature가 1 이면 0 , 그렇지 않으면 1 로 예측함.\n    def predict(self, X):\n        pred = np.zeros((X.shape[0], 1))\n        for i in range (X.shape[0]) :\n            if X['Sex'].iloc[i] == 1:\n                pred[i] = 0\n            else :\n                pred[i] = 1\n\n        return pred",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "import numpy as np\nfrom sklearn.base import BaseEstimator\n\nclass MyDummyClassifier(BaseEstimator):\n    # fit( ) 메소드는 아무것도 학습하지 않음.\n    def fit(self, X , y=None):\n        pass\n\n    # predict( ) 메소드는 단순히 Sex feature가 1 이면 0 , 그렇지 않으면 1 로 예측함.\n    def predict(self, X):\n        pred = np.zeros((X.shape[0], 1))\n        for i in range (X.shape[0]) :\n            if X['Sex'].iloc[i] == 1:\n                pred[i] = 0\n            else :\n                pred[i] = 1\n\n        return pred",
+            "href": null
+          }
+        ],
+        "language": "python"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80e3-836f-fc05ee30ba7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:43:00.000Z",
+      "last_edited_time": "2025-02-18T05:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8093-bd1f-f09fdfc23e9c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:43:00.000Z",
+      "last_edited_time": "2025-02-18T05:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MyDummyClassifier",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "MyDummyClassifier",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 이용해 앞 장의 타이타닉 생존자 예측 수행",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 이용해 앞 장의 타이타닉 생존자 예측 수행",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8097-964e-c4057bfef1f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:43:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞에서 생성한 데이터 전처리 함수",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞에서 생성한 데이터 전처리 함수",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-8007-bb1b-fbb5ae998319",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-8097-964e-c4057bfef1f1"
+          },
+          "created_time": "2025-02-18T05:44:00.000Z",
+          "last_edited_time": "2025-02-18T05:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "code",
+          "code": {
+            "caption": [],
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "from sklearn.preprocessing import LabelEncoder\n\n# Null 처리 함수\ndef fillna(df):\n    df['Age'] = df['Age'].fillna(df['Age'].mean(), inplace=True)\n    df['Cabin'] = df['Cabin'].fillna('N', inplace=True)\n    df['Embarked'] = df['Embarked'].fillna('N', inplace=True)\n    df['Fare'] = df['Fare'].fillna(0, inplace=True)\n    return df\n\n# 머신러닝 알고리즘에 불필요한 피처 제거\ndef drop_features(df):\n    df.drop(['PassengerId', 'Name', 'Ticket'], axis=1, inplace=True)\n    return df\n\n# 레이블 인코딩 수행.\ndef format_features(df):\n    df['Cabin'] = df['Cabin'].str[:1]\n    features = ['Cabin', 'Sex', 'Embarked']\n    for feature in features:\n        le = LabelEncoder()\n        le = le.fit(df[feature])\n        df[feature] = le.transform(df[feature])\n    return df\n\n# 앞에서 설정한 데이터 전처리 함수 호출\ndef transform_features(df):\n    df = fillna(df)\n    df = drop_features(df)\n    df = format_features(df)\n    return df",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "from sklearn.preprocessing import LabelEncoder\n\n# Null 처리 함수\ndef fillna(df):\n    df['Age'] = df['Age'].fillna(df['Age'].mean(), inplace=True)\n    df['Cabin'] = df['Cabin'].fillna('N', inplace=True)\n    df['Embarked'] = df['Embarked'].fillna('N', inplace=True)\n    df['Fare'] = df['Fare'].fillna(0, inplace=True)\n    return df\n\n# 머신러닝 알고리즘에 불필요한 피처 제거\ndef drop_features(df):\n    df.drop(['PassengerId', 'Name', 'Ticket'], axis=1, inplace=True)\n    return df\n\n# 레이블 인코딩 수행.\ndef format_features(df):\n    df['Cabin'] = df['Cabin'].str[:1]\n    features = ['Cabin', 'Sex', 'Embarked']\n    for feature in features:\n        le = LabelEncoder()\n        le = le.fit(df[feature])\n        df[feature] = le.transform(df[feature])\n    return df\n\n# 앞에서 설정한 데이터 전처리 함수 호출\ndef transform_features(df):\n    df = fillna(df)\n    df = drop_features(df)\n    df = format_features(df)\n    return df",
+                "href": null
+              }
+            ],
+            "language": "python"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8097-9a1e-cce97a0ada02",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "import pandas as pd\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import accuracy_score\n\n# 원본 데이터를 재로딩, 데이터 가공, 학습 데이터/테스트 데이터 분할.\ntitanic_df = pd.read_csv('train.csv')\ny_titanic_df = titanic_df['Survived']\nX_titanic_df= titanic_df.drop('Survived', axis=1)\nX_titanic_df = transform_features(X_titanic_df)\nX_train, X_test, y_train, y_test=train_test_split(X_titanic_df, y_titanic_df,\n                                                  test_size=0.2, random_state=0)\n\n# 위에서 생성한 Dummy Classifier를 이용해 학습/예측/평가 수행.\nmyclf = MyDummyClassifier()\nmyclf.fit(X_train, y_train)\n\nmypredictions = myclf.predict(X_test)\nprint('Dummy Classifier의 정확도는: {0:.4f}'.format(accuracy_score(y_test, mypredictions)))\n\n>>> Dummy Classifier의 정확도는: 0.7877",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "import pandas as pd\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import accuracy_score\n\n# 원본 데이터를 재로딩, 데이터 가공, 학습 데이터/테스트 데이터 분할.\ntitanic_df = pd.read_csv('train.csv')\ny_titanic_df = titanic_df['Survived']\nX_titanic_df= titanic_df.drop('Survived', axis=1)\nX_titanic_df = transform_features(X_titanic_df)\nX_train, X_test, y_train, y_test=train_test_split(X_titanic_df, y_titanic_df,\n                                                  test_size=0.2, random_state=0)\n\n# 위에서 생성한 Dummy Classifier를 이용해 학습/예측/평가 수행.\nmyclf = MyDummyClassifier()\nmyclf.fit(X_train, y_train)\n\nmypredictions = myclf.predict(X_test)\nprint('Dummy Classifier의 정확도는: {0:.4f}'.format(accuracy_score(y_test, mypredictions)))\n\n>>> Dummy Classifier의 정확도는: 0.7877",
+            "href": null
+          }
+        ],
+        "language": "python"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8012-b0a4-ce15a00c6591",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 단순한 알고리즘으로 예측을 하더라도 데이터의 구성에 따라 정확도 결과는 약 78.77%로 꽤 높은 수치가 나올 수 있기에 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 단순한 알고리즘으로 예측을 하더라도 데이터의 구성에 따라 정확도 결과는 약 78.77%로 꽤 높은 수치가 나올 수 있기에 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도를 평가 지표로 사용할 때는 매우 신중해야 함!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도를 평가 지표로 사용할 때는 매우 신중해야 함!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80f1-9075-cd5ab3afa446",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "특히 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특히 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "는 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "는 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "불균형한(imbalanced) label 값 분포에서 ML 모델의 성능을 판단할 경우, 적합한 평가 지표가 아님",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "불균형한(imbalanced) label 값 분포에서 ML 모델의 성능을 판단할 경우, 적합한 평가 지표가 아님",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "19eb1403-b63f-80a7-aa0f-db894873867c",
+          "parent": {
+            "type": "block_id",
+            "block_id": "19eb1403-b63f-80f1-9075-cd5ab3afa446"
+          },
+          "created_time": "2025-02-18T05:44:00.000Z",
+          "last_edited_time": "2025-02-18T05:44:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "예를 들어 100개의 데이터가 있고 이 중에 90개의 데이터 label이 0, 단 10개의 데이터 label이 1이라고 한다면 무조건 0으로 예측 결과를 반환하는 ML 모델의 경우라도 정확도가 90%나 됨",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "예를 들어 100개의 데이터가 있고 이 중에 90개의 데이터 label이 0, 단 10개의 데이터 label이 1이라고 한다면 무조건 0으로 예측 결과를 반환하는 ML 모델의 경우라도 정확도가 90%나 됨",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80d9-95ef-ff6cb5e33ad2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8007-a674-c7712702ba6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MNIST 데이터 세트를 변환해 불균형한 데이터 세트로 만든 뒤에 정확도 지표 적용시 문제점 확인",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MNIST 데이터 세트를 변환해 불균형한 데이터 세트로 만든 뒤에 정확도 지표 적용시 문제점 확인",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-806c-a1f1-f78623d6450d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MNIST 데이터 세트트 0부터 9까지의 숫자 이미지의 픽셀 정보를 가지고 있으며, 이를 기반으로 숫자 Digit를 예측하는 데 사용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MNIST 데이터 세트트 0부터 9까지의 숫자 이미지의 픽셀 정보를 가지고 있으며, 이를 기반으로 숫자 Digit를 예측하는 데 사용",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-800d-9ea6-cf6e84f480a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사이킷런은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사이킷런은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "load_digits()",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "load_digits()",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " API를 통해 MNIST 데이터 세트 제공",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " API를 통해 MNIST 데이터 세트 제공",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80d7-9286-d608b8ef9141",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:44:00.000Z",
+      "last_edited_time": "2025-02-18T05:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "원래 MNIST 데이터 세트는 label 값이 0부터 9까지 있는 멀티 label 분류를 위한 것이지만, 이것을 label=7인 것만 True, 나머지는 모두 False로 변환해 이진 분류 문제로 변경",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "원래 MNIST 데이터 세트는 label 값이 0부터 9까지 있는 멀티 label 분류를 위한 것이지만, 이것을 label=7인 것만 True, 나머지는 모두 False로 변환해 이진 분류 문제로 변경",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80b9-b35c-cf48b17e92c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/19eb1403-b63f-8092-9641-c238f7bdb374/image_1.png",
+          "expiry_time": "2025-02-18T07:07:22.641Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8020-967d-fd48a79ed403",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-8049-b0e2-db7c3767e8e2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아무것도 하지 않고 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아무것도 하지 않고 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "무조건 특정한 결과로 예측 결과를 반환",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "무조건 특정한 결과로 예측 결과를 반환",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "해도 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해도 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "데이터 분포도가 균일하지 않은 경우",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "데이터 분포도가 균일하지 않은 경우",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "높은 수치가 나타날 수 있는 것",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "높은 수치가 나타날 수 있는 것",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "이 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "정확도 평가 지표의 맹점!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "정확도 평가 지표의 맹점!",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "red_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80c2-9a5a-dbf4d0e6d1e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80b1-b53d-eb2254932c89",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "불균형한 데이터 세트와 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "불균형한 데이터 세트와 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Dummy Classifier",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "Dummy Classifier",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "19eb1403-b63f-80ad-8a0b-e5893d80af67",
+      "parent": {
+        "type": "page_id",
+        "page_id": "19eb1403-b63f-8092-9641-c238f7bdb374"
+      },
+      "created_time": "2025-02-18T05:45:00.000Z",
+      "last_edited_time": "2025-02-18T05:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "4be802e7-6343-48dd-80af-efd94b0e67d1"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "from sklearn.datasets import load_digits\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.base import BaseEstimator\nfrom sklearn.metrics import accuracy_score\nimport numpy as np\nimport pandas as pd\n\nclass MyFakeClassifier(BaseEstimator):\n    def fit(self,X,y):\n        pass\n\n    # 입력값으로 들어오는 X 데이터 셋의 크기만큼 모두 0값으로 만들어서 반환\n    def predict(self,X):\n        return np.zeros( (len(X), 1) , dtype=bool)\n\n# 사이킷런의 내장 데이터 셋인 load_digits( )를 이용하여 MNIST 데이터 로딩\ndigits = load_digits()\n\nprint(digits.data)\nprint(\"### digits.data.shape:\", digits.data.shape)\nprint(digits.target)\nprint(\"### digits.target.shape:\", digits.target.shape)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "from sklearn.datasets import load_digits\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.base import BaseEstimator\nfrom sklearn.metrics import accuracy_score\nimport numpy as np\nimport pandas as pd\n\nclass MyFakeClassifier(BaseEstimator):\n    def fit(self,X,y):\n        pass\n\n    # 입력값으로 들어오는 X 데이터 셋의 크기만큼 모두 0값으로 만들어서 반환\n    def predict(self,X):\n        return np.zeros( (len(X), 1) , dtype=bool)\n\n# 사이킷런의 내장 데이터 셋인 load_digits( )를 이용하여 MNIST 데이터 로딩\ndigits = load_digits()\n\nprint(digits.data)\nprint(\"### digits.data.shape:\", digits.data.shape)\nprint(digits.target)\nprint(\"### digits.target.shape:\", digits.target.shape)",
+            "href": null
+          }
+        ],
+        "language": "python"
+      },
+      "blocks": []
+    }
+  ]
+}
